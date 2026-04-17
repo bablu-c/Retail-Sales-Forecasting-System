@@ -31,10 +31,6 @@ This project predicts future retail sales using machine learning and optimizes i
 streamlit run app/app.py
 ```
 
-## 📸 Screenshots
-
-(Add images here)
-
 
 
 ## 📸 Screenshots
